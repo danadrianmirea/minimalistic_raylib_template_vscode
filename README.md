@@ -1,1 +1,1 @@
-"# raylib_vscode_template" 
+A minimalistic raylib template for VSCode
